@@ -52,8 +52,3 @@ DROP TABLE penjualan;
 
 -- Menghapus database bootcamp_da
 DROP DATABASE bootcamp_da;
-
-
-
-
-
