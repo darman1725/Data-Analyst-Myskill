@@ -15,6 +15,7 @@
 | Pertemuan 3 | Basic Statistics|
 | Pertemuan 4 | Business Metrics |
 | Pertemuan 5 | Data Analyst Cleaning and Formatting |
-| Pertemuan 6 |  Basic SQL part 1 |
+| Pertemuan 6 | Data Definition Language (DDL) - SQL Part 1 |
+| Pertemuan 7 | Data Manipulation Language (DML) - SQL Part 2 |
 
 ***(Darman Saputra Saragih)***
