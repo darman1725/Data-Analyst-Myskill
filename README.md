@@ -20,5 +20,6 @@
 | Pertemuan 8  | SQL Basic to Advance - SQL Part 3 |
 | Pertemuan 9  | SQL For Data Analysis - 1 | 
 | Pertemuan 10 | SQL For Data Analysis - 2 |
+| Pertemuan 11 | Introduction to Python | 
 
 ***(Darman Saputra Saragih)***
