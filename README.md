@@ -20,6 +20,7 @@
 | Pertemuan 8  | SQL Basic to Advance - SQL Part 3 |
 | Pertemuan 9  | SQL For Data Analysis - 1 | 
 | Pertemuan 10 | SQL For Data Analysis - 2 |
-| Pertemuan 11 | Introduction to Python | 
+| Pertemuan 11 | Data Analysis with Python 1: Basic Python | 
+| Pertemuan 12 | Data Analysis with Python 2: Work with Numpy and Pandas | 
 
 ***(Darman Saputra Saragih)***
