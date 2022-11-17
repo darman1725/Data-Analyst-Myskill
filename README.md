@@ -22,5 +22,7 @@
 | Pertemuan 10 | SQL For Data Analysis - 2 |
 | Pertemuan 11 | Data Analysis with Python 1: Basic Python | 
 | Pertemuan 12 | Data Analysis with Python 2: Work with Numpy and Pandas | 
+| Pertemuan 13 | Data Analysis with Python 3: Study Cases | 
+| Pertemuan 14 | Data Visualization 1: Basic Data Vizualization + Project 2 | 
 
 ***(Darman Saputra Saragih)***
