@@ -25,5 +25,6 @@
 | Pertemuan 13 | Data Analysis with Python 3: Study Cases | 
 | Pertemuan 14 | Data Visualization 1: Basic Data Vizualization + Project 2 | 
 | Pertemuan 15 | Data Visualization 2: Google Data Studio | 
+| Pertemuan 16 | Career Class : HR CV Review + Interview | 
 
 ***(Darman Saputra Saragih)***
