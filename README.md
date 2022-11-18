@@ -24,5 +24,6 @@
 | Pertemuan 12 | Data Analysis with Python 2: Work with Numpy and Pandas | 
 | Pertemuan 13 | Data Analysis with Python 3: Study Cases | 
 | Pertemuan 14 | Data Visualization 1: Basic Data Vizualization + Project 2 | 
+| Pertemuan 15 | Data Visualization 2: Google Data Studio | 
 
 ***(Darman Saputra Saragih)***
